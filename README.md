@@ -1,2 +1,2 @@
 # hello-world-real
-it is my hello world prgram.
+it is my hello world program.
